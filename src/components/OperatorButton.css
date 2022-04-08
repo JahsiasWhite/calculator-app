@@ -1,0 +1,27 @@
+.myButton {
+    width: 3em;
+    height: 3em;
+    color: "black";
+    background-color: "#fad652";
+}
+
+.btn-rounded-circle {
+    height: 3em;
+    width: 3em;
+    color: "black";
+    background-color: "white";
+}
+
+.btn-operator {
+    height: 3em;
+    width: 3em;
+    color: "black";
+    background-color: "#e4c54c";
+}
+
+.btn-operator:hover {
+    background-color: white !important;
+    border-color: white;
+    color: white;
+}
+

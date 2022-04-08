@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  background-color: #43326e;
+  height: 35rem;
+  width: 115%;
+  border-radius: 0px;
+  left: 20px;
 }
 
 .App-logo {
@@ -28,11 +33,37 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.header {
+  height: 20%;
+  background-color: #645390;
+  border-bottom: solid 5px #322650;
+}
+
+.dropdown-toggle::after {
+  display: none !important;
+}
+
+.btn-primary {
+  background-color: transparent !important;
+  outline: none;
+  float: left;
+}
+
+.btn-primary:hover {
+  background-color: grey;
+  border-color: grey;
+}
+
+.btn-primary:active, .show>.btn-primary.dropdown-toggle {
+  background-color: grey;
+  border-color: grey;
+  outline: none;
+}
+
+.light {
+  background-color: #43326e;
+}
+
+.dark {
+  background-color: black;
 }

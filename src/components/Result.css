@@ -1,0 +1,23 @@
+
+
+.bottomBorder {
+  position: absolute;
+  bottom: 0;
+  width: 90%;
+  left: 5%;
+  border-bottom: medium solid white;
+}
+
+.result {
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    align-items: center;
+    display: flex;
+    justify-content: flex-end;
+    width:100%
+  }

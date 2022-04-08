@@ -1,0 +1,26 @@
+.myButton {
+    width: 3em;
+    height: 3em;
+}
+
+.btn-rounded-circle {
+    height: 3em;
+    width: 3em;
+}
+
+.btn-wide {
+    height: 3em;
+    border-radius: 20% !important;
+    width: 6em;
+}
+
+
+.btn-rounded-circle:hover {
+    background-color: #e4c54c;
+    color: #e4c54c;
+}
+
+.btn-wide:hover {
+    background-color: #e4c54c;
+    color: #e4c54c;
+}
