@@ -36,11 +36,11 @@ Coding Interview Questions
 3. An array inside of an array is called what?
    Nested array
 5. Describe a ternary and describe its syntax?
-   A ternary operator is an operator that takes in 3 operands. The ternary operator in javascript acts as a shortened if statement. Two examples are below
-   var result = CONDITIONAL ? IF_TRUE : IF_FALSE
+   A ternary operator is an operator that takes in 3 operands. The ternary operator in javascript acts as a shortened if statement. Two examples are below <br>
+   var result = CONDITIONAL ? IF_TRUE : IF_FALSE <br>
    var result = ( height > 5 ) ? 'You are tall enough to ride!' : 'Sorry, you are too short!'
    
-   Here, the result is set to the second operand if the first operand/conditon is true and set to the third operand if the first operand/condition is false.
+   Here, the result is set to the second operand if the first operand/conditonal is true and set to the third operand if the first operand/conditional is false.
    
 
 ## TODO / Bugs
